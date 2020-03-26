@@ -110,5 +110,5 @@ Supprimerait cypress/integration/
 Supprimerait cypress/plugins/
 Supprimerait package.json
 
-.idea
 Supprimerait .gitignore
+/.idea/
